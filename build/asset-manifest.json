@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebb9bbef.css",
+    "main.js": "/static/js/main.a891fcab.js",
+    "static/media/leftArticle.svg": "/static/media/leftArticle.0a41530a792b73bfb6a10aa959e28808.svg",
+    "static/media/leftDownArticle.svg": "/static/media/leftDownArticle.a01adda2ead9e79b56711876c50a6276.svg",
+    "static/media/rightDownArticle.svg": "/static/media/rightDownArticle.dda19d6e36fe27807c2250e69a6b5e08.svg",
+    "static/media/rightUpArticle.svg": "/static/media/rightUpArticle.35ec8180f3f63c06f61fad21d569c02e.svg",
+    "static/media/leftUpArticle.svg": "/static/media/leftUpArticle.b0e23a26a8781e1da54717265a2abd5a.svg",
+    "static/media/women.png": "/static/media/women.b33e4d74c1c3619f4dab.png",
+    "static/media/Illustration.svg": "/static/media/Illustration.1925b6f56a5357c1b4940f38b140be85.svg",
+    "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/Manrope-Bold.ttf": "/static/media/Manrope-Bold.47f6d7143da9d8c0e480.ttf",
+    "static/media/Manrope-Light.ttf": "/static/media/Manrope-Light.2bf511c25636c7d7a4ce.ttf",
+    "static/media/google.svg": "/static/media/google.9bf67e20b0fe3c4e3cc4c7f8ecff324e.svg",
+    "static/media/atlassian.svg": "/static/media/atlassian.ca6d0f45450e0fbacda367c5b3681647.svg",
+    "static/media/dropbox.svg": "/static/media/dropbox.443f730dc97af16531a752c87942444f.svg",
+    "static/media/shopify.svg": "/static/media/shopify.4a00e06976933e69d68a169c6f539517.svg",
+    "static/media/slack.svg": "/static/media/slack.2258b8b583f74b640c879869eb20e393.svg",
+    "static/media/logo.svg": "/static/media/logo.f5c4baa1104bbd5446ce4aeb8355d042.svg",
+    "static/media/what_is_gpt_3_bg.svg": "/static/media/what_is_gpt_3_bg.a71e1545f87535cba87e.svg",
+    "index.html": "/index.html",
+    "static/media/gradient_line.svg": "/static/media/gradient_line.bdf31286b69142525e4a.svg",
+    "main.ebb9bbef.css.map": "/static/css/main.ebb9bbef.css.map",
+    "main.a891fcab.js.map": "/static/js/main.a891fcab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb9bbef.css",
+    "static/js/main.a891fcab.js"
+  ]
+}
